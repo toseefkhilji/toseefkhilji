@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toseefkhilji
-- 👀 I’m working on Swift
-- 🌱 I’m currently learning SwiftUI
+- 👀 I’m working on Swift and SwiftUI
+- 🌱 I’m currently learning Flutter
 
 <!---
 toseefkhilji/toseefkhilji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
